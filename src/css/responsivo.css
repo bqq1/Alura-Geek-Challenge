@@ -1,0 +1,35 @@
+@media screen and (max-width: 430px) {
+    body {
+        max-width: 430px;
+        margin: 0 auto;
+        overflow-x: hidden;
+    }
+
+    .container {
+        flex-direction: column-reverse;
+        padding: 0 0 60px 16px;
+    }
+
+    .produtos {
+        width: 95%;
+        height: 790px;
+    }
+
+    .produtos .lista-produtos {
+        height: 690px;
+    }
+
+    .produtos .lista-produtos ul {
+        flex-direction: column;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+
+    .formulario {
+        width: 100%;
+    }
+
+    footer {
+        height: 168px;
+    }
+}

@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "titulo": "Boneco Batman",
+      "valor": "R$99,90",
+      "imagem": "https://toymania.vtexassets.com/arquivos/ids/946805-800-auto?v=637323446299600000&width=800&height=auto&aspect=true"
+    },
+    {
+      "id": "2",
+      "titulo": "Boneco Coringa",
+      "valor": "R$89,90",
+      "imagem": "https://cdn.awsli.com.br/600x450/1145/1145210/produto/21152971232d19377f7.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Boneco Superman ",
+      "valor": "R$119,90",
+      "imagem": "https://images-americanas.b2w.io/produtos/4207761907/imagens/boneco-superman-articulado-dc-comics-30cm-sunny-2202/4207761931_1_large.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Boneco Lanterna Verde",
+      "valor": "R$89,90",
+      "imagem": "https://images-americanas.b2w.io/produtos/1848400731/imagens/boneco-lanterna-verde-true-moves-30cm-mattel/1848400749_1_large.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Boneco Dr. Estranho",
+      "valor": "R$129,90",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728768-MLB51013729851_082022-O.webp"
+    },
+    {
+      "id": "6",
+      "titulo": "Boneco Homem de Ferro",
+      "valor": "R$289,90",
+      "imagem": "https://m.media-amazon.com/images/I/613sqJj4tQL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Boneco Homem Aranha",
+      "valor": "R$109,90",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_859388-MLB70643883668_072023-O.webp"
+    },
+    {
+      "id": "8",
+      "titulo": "Boneco Thor",
+      "valor": "R$149,90",
+      "imagem": "https://images-americanas.b2w.io/produtos/7475730657/imagens/boneco-figura-de-acao-marvel-thor/7475730657_1_large.jpg"
+    },
+    {
+      "id": "9",
+      "titulo": "Boneco Hulk",
+      "valor": "R$299,90",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_812864-MLB46422915908_062021-V.webp"
+    }
+  ]
+}
